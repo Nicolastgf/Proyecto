@@ -1,0 +1,10 @@
+.img-fondo {
+    background-image: url(https://www.xtrafondos.com/wallpapers/montanas-en-patagonia-argentina-4273.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .card-1 {
+    background: rgba(239, 237, 237, 0.75);
+  }
