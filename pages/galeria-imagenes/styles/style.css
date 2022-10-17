@@ -48,3 +48,45 @@ input {
   font-size: 1em;
   margin-top: 15px;
 }
+footer {
+  background-color: #d9dcdb;
+  background-image: url(/imganes/imagenesfooter/lanin.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.islas,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  text-shadow: -2px 0 rgb(129, 203, 216), 0 2px rgb(129, 203, 216),
+    -2px 0 rgb(129, 203, 216), 0 -2px rgb(129, 203, 216);
+  color: #2364f0;
+}
+
+.info {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #d9dcdb;
+  text-align: center;
+}
+
+footer,
+.pfooter {
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1cm;
+  color: rgb(33, 34, 34);
+  text-shadow: -2px 0 rgb(129, 203, 216), 0 2px rgb(129, 203, 216),
+    -2px 0 rgb(129, 203, 216), 0 -2px rgb(129, 203, 216);
+}
+.malvinas {
+  height: 90px;
+}
+.logo1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 360px;
+  width: 500px;
+}
