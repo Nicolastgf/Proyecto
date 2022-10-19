@@ -1,6 +1,11 @@
 *{
   font-family: 'Roboto Condensed', sans-serif;
 }
+
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(17,198,165,1) 0%, rgba(0,212,255,1) 100%);
+}
 .navegador-principal{
   background: rgba(5, 7, 12, 0.7);
   
